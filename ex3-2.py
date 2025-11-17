@@ -1,6 +1,6 @@
 # 建立變數 cl
 n2ame = "張三"
-age_old = 30
+age_old = 40
 class1 = 175.5
 is_student = True
 
